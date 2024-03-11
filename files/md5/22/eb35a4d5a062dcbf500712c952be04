@@ -1,0 +1,1912 @@
+,filename,label
+0,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_8498.JPEG,parachute
+1,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_8806.JPEG,parachute
+2,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_9549.JPEG,parachute
+3,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_67959.JPEG,parachute
+4,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_70876.JPEG,parachute
+5,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_9845.JPEG,parachute
+6,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_94.JPEG,parachute
+7,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_68897.JPEG,parachute
+8,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_71113.JPEG,parachute
+9,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_9444.JPEG,parachute
+10,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_877.JPEG,parachute
+11,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_9618.JPEG,parachute
+12,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_71256.JPEG,parachute
+13,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_949.JPEG,parachute
+14,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_7766.JPEG,parachute
+15,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_7004.JPEG,parachute
+16,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_7954.JPEG,parachute
+17,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_9449.JPEG,parachute
+18,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_6688.JPEG,parachute
+19,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_9403.JPEG,parachute
+20,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_8614.JPEG,parachute
+21,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_8148.JPEG,parachute
+22,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_904.JPEG,parachute
+23,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_9209.JPEG,parachute
+24,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_73265.JPEG,parachute
+25,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_9155.JPEG,parachute
+26,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_8193.JPEG,parachute
+27,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_75365.JPEG,parachute
+28,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_7587.JPEG,parachute
+29,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_894.JPEG,parachute
+30,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_66927.JPEG,parachute
+31,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_8837.JPEG,parachute
+32,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_874.JPEG,parachute
+33,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_9378.JPEG,parachute
+34,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_68027.JPEG,parachute
+35,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_8539.JPEG,parachute
+36,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_8089.JPEG,parachute
+37,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_8439.JPEG,parachute
+38,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_8415.JPEG,parachute
+39,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_8338.JPEG,parachute
+40,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_8275.JPEG,parachute
+41,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_7526.JPEG,parachute
+42,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_8225.JPEG,parachute
+43,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_8334.JPEG,parachute
+44,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_817.JPEG,parachute
+45,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_9458.JPEG,parachute
+46,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_8039.JPEG,parachute
+47,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_9488.JPEG,parachute
+48,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_69239.JPEG,parachute
+49,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_78.JPEG,parachute
+50,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_9858.JPEG,parachute
+51,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_7027.JPEG,parachute
+52,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_9983.JPEG,parachute
+53,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_7447.JPEG,parachute
+54,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_75404.JPEG,parachute
+55,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_9726.JPEG,parachute
+56,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_74946.JPEG,parachute
+57,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_9456.JPEG,parachute
+58,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_67319.JPEG,parachute
+59,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_7474.JPEG,parachute
+60,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_7793.JPEG,parachute
+61,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_8423.JPEG,parachute
+62,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_9864.JPEG,parachute
+63,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_6749.JPEG,parachute
+64,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_73.JPEG,parachute
+65,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_9785.JPEG,parachute
+66,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_72425.JPEG,parachute
+67,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_68953.JPEG,parachute
+68,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_9997.JPEG,parachute
+69,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_71806.JPEG,parachute
+70,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_7294.JPEG,parachute
+71,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_72509.JPEG,parachute
+72,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_9739.JPEG,parachute
+73,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_9399.JPEG,parachute
+74,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_71069.JPEG,parachute
+75,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_8445.JPEG,parachute
+76,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_7046.JPEG,parachute
+77,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_9839.JPEG,parachute
+78,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_71184.JPEG,parachute
+79,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_75495.JPEG,parachute
+80,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_7637.JPEG,parachute
+81,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_68618.JPEG,parachute
+82,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_66916.JPEG,parachute
+83,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_6753.JPEG,parachute
+84,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_6738.JPEG,parachute
+85,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_9609.JPEG,parachute
+86,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_66969.JPEG,parachute
+87,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_7234.JPEG,parachute
+88,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_6663.JPEG,parachute
+89,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_66357.JPEG,parachute
+90,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_65876.JPEG,parachute
+91,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_9059.JPEG,parachute
+92,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_6573.JPEG,parachute
+93,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_65516.JPEG,parachute
+94,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_6544.JPEG,parachute
+95,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_65206.JPEG,parachute
+96,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_8936.JPEG,parachute
+97,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_6453.JPEG,parachute
+98,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_64605.JPEG,parachute
+99,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_74795.JPEG,parachute
+100,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_9874.JPEG,parachute
+101,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_556.JPEG,parachute
+102,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_69366.JPEG,parachute
+103,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_9524.JPEG,parachute
+104,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_63966.JPEG,parachute
+105,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_6395.JPEG,parachute
+106,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_6369.JPEG,parachute
+107,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_56335.JPEG,parachute
+108,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_6366.JPEG,parachute
+109,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_6358.JPEG,parachute
+110,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_9367.JPEG,parachute
+111,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_61136.JPEG,parachute
+112,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_6326.JPEG,parachute
+113,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_63169.JPEG,parachute
+114,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_6309.JPEG,parachute
+115,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_6287.JPEG,parachute
+116,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_62814.JPEG,parachute
+117,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_6265.JPEG,parachute
+118,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_62568.JPEG,parachute
+119,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_59985.JPEG,parachute
+120,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_6215.JPEG,parachute
+121,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_7199.JPEG,parachute
+122,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_9408.JPEG,parachute
+123,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_6159.JPEG,parachute
+124,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_6516.JPEG,parachute
+125,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_6106.JPEG,parachute
+126,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_61007.JPEG,parachute
+127,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_5799.JPEG,parachute
+128,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_73685.JPEG,parachute
+129,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_6028.JPEG,parachute
+130,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_60113.JPEG,parachute
+131,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_74308.JPEG,parachute
+132,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_59754.JPEG,parachute
+133,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_59415.JPEG,parachute
+134,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_79145.JPEG,parachute
+135,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_5939.JPEG,parachute
+136,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_5915.JPEG,parachute
+137,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_5908.JPEG,parachute
+138,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_5893.JPEG,parachute
+139,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_5827.JPEG,parachute
+140,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_79004.JPEG,parachute
+141,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_57973.JPEG,parachute
+142,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_57707.JPEG,parachute
+143,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_5757.JPEG,parachute
+144,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_5703.JPEG,parachute
+145,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_62457.JPEG,parachute
+146,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_56667.JPEG,parachute
+147,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_56595.JPEG,parachute
+148,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_5653.JPEG,parachute
+149,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_5639.JPEG,parachute
+150,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_56355.JPEG,parachute
+151,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_6059.JPEG,parachute
+152,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_56279.JPEG,parachute
+153,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_56078.JPEG,parachute
+154,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_5599.JPEG,parachute
+155,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_55677.JPEG,parachute
+156,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_5565.JPEG,parachute
+157,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_4929.JPEG,parachute
+158,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_74823.JPEG,parachute
+159,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_55348.JPEG,parachute
+160,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_55113.JPEG,parachute
+161,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_548.JPEG,parachute
+162,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_54363.JPEG,parachute
+163,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_54295.JPEG,parachute
+164,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_54265.JPEG,parachute
+165,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_5404.JPEG,parachute
+166,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_5388.JPEG,parachute
+167,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_62025.JPEG,parachute
+168,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_5334.JPEG,parachute
+169,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_71423.JPEG,parachute
+170,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_5316.JPEG,parachute
+171,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_8379.JPEG,parachute
+172,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_6503.JPEG,parachute
+173,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_6076.JPEG,parachute
+174,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_52194.JPEG,parachute
+175,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_5218.JPEG,parachute
+176,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_52139.JPEG,parachute
+177,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_6338.JPEG,parachute
+178,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_51808.JPEG,parachute
+179,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_51626.JPEG,parachute
+180,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_51188.JPEG,parachute
+181,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_5109.JPEG,parachute
+182,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_50367.JPEG,parachute
+183,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_4988.JPEG,parachute
+184,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_53087.JPEG,parachute
+185,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_50059.JPEG,parachute
+186,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_49674.JPEG,parachute
+187,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_49667.JPEG,parachute
+188,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_7825.JPEG,parachute
+189,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_59397.JPEG,parachute
+190,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_72045.JPEG,parachute
+191,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_4927.JPEG,parachute
+192,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_4919.JPEG,parachute
+193,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_7134.JPEG,parachute
+194,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_4904.JPEG,parachute
+195,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_48334.JPEG,parachute
+196,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_48126.JPEG,parachute
+197,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_4809.JPEG,parachute
+198,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_48087.JPEG,parachute
+199,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_48085.JPEG,parachute
+200,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_48.JPEG,parachute
+201,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_47879.JPEG,parachute
+202,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_4764.JPEG,parachute
+203,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_47418.JPEG,parachute
+204,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_4738.JPEG,parachute
+205,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_46943.JPEG,parachute
+206,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_46884.JPEG,parachute
+207,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_46879.JPEG,parachute
+208,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_4683.JPEG,parachute
+209,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_46696.JPEG,parachute
+210,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_4669.JPEG,parachute
+211,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_4614.JPEG,parachute
+212,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_4607.JPEG,parachute
+213,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_457.JPEG,parachute
+214,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_45616.JPEG,parachute
+215,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_4553.JPEG,parachute
+216,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_45287.JPEG,parachute
+217,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_45277.JPEG,parachute
+218,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_45124.JPEG,parachute
+219,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_44925.JPEG,parachute
+220,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_44916.JPEG,parachute
+221,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_5327.JPEG,parachute
+222,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_4446.JPEG,parachute
+223,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_4444.JPEG,parachute
+224,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_44204.JPEG,parachute
+225,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_4409.JPEG,parachute
+226,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_44074.JPEG,parachute
+227,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_4403.JPEG,parachute
+228,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_43839.JPEG,parachute
+229,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_43813.JPEG,parachute
+230,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_43663.JPEG,parachute
+231,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_43605.JPEG,parachute
+232,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_4355.JPEG,parachute
+233,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_4348.JPEG,parachute
+234,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_4345.JPEG,parachute
+235,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_4323.JPEG,parachute
+236,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_43178.JPEG,parachute
+237,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_43169.JPEG,parachute
+238,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_43086.JPEG,parachute
+239,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_36129.JPEG,parachute
+240,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_42945.JPEG,parachute
+241,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_4289.JPEG,parachute
+242,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_42848.JPEG,parachute
+243,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_42788.JPEG,parachute
+244,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_42718.JPEG,parachute
+245,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_42605.JPEG,parachute
+246,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_37133.JPEG,parachute
+247,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_42405.JPEG,parachute
+248,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_4239.JPEG,parachute
+249,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_52009.JPEG,parachute
+250,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_42133.JPEG,parachute
+251,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_42083.JPEG,parachute
+252,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_37365.JPEG,parachute
+253,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_41648.JPEG,parachute
+254,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_4157.JPEG,parachute
+255,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_4154.JPEG,parachute
+256,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_41498.JPEG,parachute
+257,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_41295.JPEG,parachute
+258,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_4117.JPEG,parachute
+259,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_71023.JPEG,parachute
+260,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_41069.JPEG,parachute
+261,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_41055.JPEG,parachute
+262,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_4097.JPEG,parachute
+263,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_35407.JPEG,parachute
+264,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_40227.JPEG,parachute
+265,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_40105.JPEG,parachute
+266,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_39575.JPEG,parachute
+267,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_39543.JPEG,parachute
+268,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_39407.JPEG,parachute
+269,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_3929.JPEG,parachute
+270,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_3927.JPEG,parachute
+271,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_39168.JPEG,parachute
+272,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_39034.JPEG,parachute
+273,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_38929.JPEG,parachute
+274,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_38818.JPEG,parachute
+275,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_3875.JPEG,parachute
+276,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_38723.JPEG,parachute
+277,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_38709.JPEG,parachute
+278,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_38685.JPEG,parachute
+279,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_38633.JPEG,parachute
+280,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_38619.JPEG,parachute
+281,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_38613.JPEG,parachute
+282,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_38563.JPEG,parachute
+283,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_38516.JPEG,parachute
+284,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_38438.JPEG,parachute
+285,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_3839.JPEG,parachute
+286,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_38373.JPEG,parachute
+287,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_9667.JPEG,parachute
+288,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_383.JPEG,parachute
+289,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_9637.JPEG,parachute
+290,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_38025.JPEG,parachute
+291,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_49435.JPEG,parachute
+292,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_37945.JPEG,parachute
+293,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_37794.JPEG,parachute
+294,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_37776.JPEG,parachute
+295,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_37623.JPEG,parachute
+296,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_37586.JPEG,parachute
+297,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_37553.JPEG,parachute
+298,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_37513.JPEG,parachute
+299,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_71988.JPEG,parachute
+300,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_37239.JPEG,parachute
+301,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_63675.JPEG,parachute
+302,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_3704.JPEG,parachute
+303,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_936.JPEG,parachute
+304,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_37008.JPEG,parachute
+305,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_36937.JPEG,parachute
+306,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_36918.JPEG,parachute
+307,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_3669.JPEG,parachute
+308,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_36686.JPEG,parachute
+309,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_366.JPEG,parachute
+310,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_73606.JPEG,parachute
+311,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_3656.JPEG,parachute
+312,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_36506.JPEG,parachute
+313,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_36469.JPEG,parachute
+314,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_36463.JPEG,parachute
+315,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_36454.JPEG,parachute
+316,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_3637.JPEG,parachute
+317,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_36369.JPEG,parachute
+318,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_36317.JPEG,parachute
+319,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_36278.JPEG,parachute
+320,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_36265.JPEG,parachute
+321,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_4905.JPEG,parachute
+322,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_36118.JPEG,parachute
+323,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_36097.JPEG,parachute
+324,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_3607.JPEG,parachute
+325,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_36028.JPEG,parachute
+326,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_35969.JPEG,parachute
+327,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_3595.JPEG,parachute
+328,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_35859.JPEG,parachute
+329,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_35848.JPEG,parachute
+330,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_35764.JPEG,parachute
+331,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_6447.JPEG,parachute
+332,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_35434.JPEG,parachute
+333,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_38305.JPEG,parachute
+334,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_38256.JPEG,parachute
+335,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_35148.JPEG,parachute
+336,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_35035.JPEG,parachute
+337,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_35033.JPEG,parachute
+338,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_34994.JPEG,parachute
+339,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_35223.JPEG,parachute
+340,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_3478.JPEG,parachute
+341,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_34756.JPEG,parachute
+342,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_34737.JPEG,parachute
+343,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_34666.JPEG,parachute
+344,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_34639.JPEG,parachute
+345,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_6417.JPEG,parachute
+346,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_34606.JPEG,parachute
+347,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_34536.JPEG,parachute
+348,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_34513.JPEG,parachute
+349,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_34433.JPEG,parachute
+350,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_34374.JPEG,parachute
+351,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_34355.JPEG,parachute
+352,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_34329.JPEG,parachute
+353,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_34169.JPEG,parachute
+354,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_34157.JPEG,parachute
+355,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_34125.JPEG,parachute
+356,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_34023.JPEG,parachute
+357,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_3387.JPEG,parachute
+358,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_33818.JPEG,parachute
+359,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_33789.JPEG,parachute
+360,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_33739.JPEG,parachute
+361,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_30818.JPEG,parachute
+362,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_33624.JPEG,parachute
+363,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_65828.JPEG,parachute
+364,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_33544.JPEG,parachute
+365,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_33427.JPEG,parachute
+366,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_33265.JPEG,parachute
+367,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_33204.JPEG,parachute
+368,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_32725.JPEG,parachute
+369,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_32703.JPEG,parachute
+370,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_32684.JPEG,parachute
+371,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_32608.JPEG,parachute
+372,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_32518.JPEG,parachute
+373,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_5293.JPEG,parachute
+374,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_32398.JPEG,parachute
+375,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_3238.JPEG,parachute
+376,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_32339.JPEG,parachute
+377,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_32247.JPEG,parachute
+378,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_32216.JPEG,parachute
+379,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_3209.JPEG,parachute
+380,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_31987.JPEG,parachute
+381,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_30008.JPEG,parachute
+382,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_31839.JPEG,parachute
+383,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_31794.JPEG,parachute
+384,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_31784.JPEG,parachute
+385,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_31693.JPEG,parachute
+386,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_3169.JPEG,parachute
+387,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_2747.JPEG,parachute
+388,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_31587.JPEG,parachute
+389,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_31454.JPEG,parachute
+390,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_31426.JPEG,parachute
+391,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_31336.JPEG,parachute
+392,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_31296.JPEG,parachute
+393,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_31203.JPEG,parachute
+394,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_31169.JPEG,parachute
+395,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_31075.JPEG,parachute
+396,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_30997.JPEG,parachute
+397,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_30987.JPEG,parachute
+398,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_3093.JPEG,parachute
+399,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_30916.JPEG,parachute
+400,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_30899.JPEG,parachute
+401,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_30875.JPEG,parachute
+402,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_4233.JPEG,parachute
+403,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_33587.JPEG,parachute
+404,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_30735.JPEG,parachute
+405,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_30723.JPEG,parachute
+406,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_37009.JPEG,parachute
+407,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_30668.JPEG,parachute
+408,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_30655.JPEG,parachute
+409,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_30588.JPEG,parachute
+410,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_56857.JPEG,parachute
+411,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_3047.JPEG,parachute
+412,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_30435.JPEG,parachute
+413,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_30394.JPEG,parachute
+414,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_30377.JPEG,parachute
+415,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_30279.JPEG,parachute
+416,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_30243.JPEG,parachute
+417,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_30829.JPEG,parachute
+418,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_30158.JPEG,parachute
+419,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_3013.JPEG,parachute
+420,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_30127.JPEG,parachute
+421,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_30018.JPEG,parachute
+422,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_69263.JPEG,parachute
+423,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_29923.JPEG,parachute
+424,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_29854.JPEG,parachute
+425,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_29778.JPEG,parachute
+426,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_29766.JPEG,parachute
+427,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_297.JPEG,parachute
+428,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_29588.JPEG,parachute
+429,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_29569.JPEG,parachute
+430,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_61633.JPEG,parachute
+431,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_29546.JPEG,parachute
+432,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_2953.JPEG,parachute
+433,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_29459.JPEG,parachute
+434,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_44767.JPEG,parachute
+435,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_30498.JPEG,parachute
+436,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_29223.JPEG,parachute
+437,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_2919.JPEG,parachute
+438,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_29169.JPEG,parachute
+439,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_29005.JPEG,parachute
+440,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_28999.JPEG,parachute
+441,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_28923.JPEG,parachute
+442,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_28873.JPEG,parachute
+443,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_28865.JPEG,parachute
+444,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_28669.JPEG,parachute
+445,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_28629.JPEG,parachute
+446,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_28569.JPEG,parachute
+447,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_28525.JPEG,parachute
+448,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_28515.JPEG,parachute
+449,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_28496.JPEG,parachute
+450,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_28396.JPEG,parachute
+451,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_28267.JPEG,parachute
+452,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_28259.JPEG,parachute
+453,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_28238.JPEG,parachute
+454,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_28228.JPEG,parachute
+455,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_28095.JPEG,parachute
+456,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_27996.JPEG,parachute
+457,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_27983.JPEG,parachute
+458,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_27975.JPEG,parachute
+459,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_27939.JPEG,parachute
+460,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_2778.JPEG,parachute
+461,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_27624.JPEG,parachute
+462,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_27595.JPEG,parachute
+463,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_40359.JPEG,parachute
+464,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_27343.JPEG,parachute
+465,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_2734.JPEG,parachute
+466,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_27333.JPEG,parachute
+467,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_27166.JPEG,parachute
+468,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_2714.JPEG,parachute
+469,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_22767.JPEG,parachute
+470,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_26785.JPEG,parachute
+471,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_41099.JPEG,parachute
+472,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_26228.JPEG,parachute
+473,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_26149.JPEG,parachute
+474,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_4179.JPEG,parachute
+475,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_25803.JPEG,parachute
+476,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_25763.JPEG,parachute
+477,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_25706.JPEG,parachute
+478,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_25703.JPEG,parachute
+479,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_25687.JPEG,parachute
+480,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_25644.JPEG,parachute
+481,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_25565.JPEG,parachute
+482,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_25524.JPEG,parachute
+483,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_25509.JPEG,parachute
+484,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_25456.JPEG,parachute
+485,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_2539.JPEG,parachute
+486,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_24804.JPEG,parachute
+487,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_25223.JPEG,parachute
+488,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_25093.JPEG,parachute
+489,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_25024.JPEG,parachute
+490,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_2499.JPEG,parachute
+491,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_24984.JPEG,parachute
+492,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_24905.JPEG,parachute
+493,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_9908.JPEG,parachute
+494,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_24644.JPEG,parachute
+495,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_24519.JPEG,parachute
+496,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_66987.JPEG,parachute
+497,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_24295.JPEG,parachute
+498,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_24216.JPEG,parachute
+499,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_9666.JPEG,parachute
+500,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_24126.JPEG,parachute
+501,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_24115.JPEG,parachute
+502,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_24043.JPEG,parachute
+503,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_24025.JPEG,parachute
+504,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_24024.JPEG,parachute
+505,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_23946.JPEG,parachute
+506,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_23937.JPEG,parachute
+507,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_23923.JPEG,parachute
+508,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_23868.JPEG,parachute
+509,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_32464.JPEG,parachute
+510,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_23815.JPEG,parachute
+511,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_23776.JPEG,parachute
+512,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_23723.JPEG,parachute
+513,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_23706.JPEG,parachute
+514,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_23669.JPEG,parachute
+515,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_23437.JPEG,parachute
+516,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_23339.JPEG,parachute
+517,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_23338.JPEG,parachute
+518,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_23297.JPEG,parachute
+519,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_2327.JPEG,parachute
+520,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_23265.JPEG,parachute
+521,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_23233.JPEG,parachute
+522,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_23204.JPEG,parachute
+523,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_23198.JPEG,parachute
+524,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_23113.JPEG,parachute
+525,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_23069.JPEG,parachute
+526,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_23048.JPEG,parachute
+527,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_23023.JPEG,parachute
+528,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_22956.JPEG,parachute
+529,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_29555.JPEG,parachute
+530,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_34988.JPEG,parachute
+531,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_22893.JPEG,parachute
+532,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_22854.JPEG,parachute
+533,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_7115.JPEG,parachute
+534,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_2276.JPEG,parachute
+535,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_22703.JPEG,parachute
+536,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_22687.JPEG,parachute
+537,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_2267.JPEG,parachute
+538,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_22668.JPEG,parachute
+539,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_22655.JPEG,parachute
+540,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_226.JPEG,parachute
+541,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_22545.JPEG,parachute
+542,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_22484.JPEG,parachute
+543,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_22473.JPEG,parachute
+544,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_22305.JPEG,parachute
+545,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_22147.JPEG,parachute
+546,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_22146.JPEG,parachute
+547,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_22115.JPEG,parachute
+548,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_22114.JPEG,parachute
+549,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_22096.JPEG,parachute
+550,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_22053.JPEG,parachute
+551,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_9193.JPEG,parachute
+552,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_21998.JPEG,parachute
+553,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_2195.JPEG,parachute
+554,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_21923.JPEG,parachute
+555,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_2187.JPEG,parachute
+556,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_21793.JPEG,parachute
+557,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_9529.JPEG,parachute
+558,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_21399.JPEG,parachute
+559,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_21346.JPEG,parachute
+560,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_21298.JPEG,parachute
+561,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_21265.JPEG,parachute
+562,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_21243.JPEG,parachute
+563,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_21227.JPEG,parachute
+564,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_21159.JPEG,parachute
+565,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_21154.JPEG,parachute
+566,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_21119.JPEG,parachute
+567,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_21093.JPEG,parachute
+568,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_2103.JPEG,parachute
+569,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_21027.JPEG,parachute
+570,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_20989.JPEG,parachute
+571,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_20945.JPEG,parachute
+572,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_20903.JPEG,parachute
+573,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_20893.JPEG,parachute
+574,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_20717.JPEG,parachute
+575,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_20704.JPEG,parachute
+576,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_20684.JPEG,parachute
+577,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_20676.JPEG,parachute
+578,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_20654.JPEG,parachute
+579,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_20649.JPEG,parachute
+580,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_20624.JPEG,parachute
+581,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_20504.JPEG,parachute
+582,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_20473.JPEG,parachute
+583,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_20447.JPEG,parachute
+584,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_20436.JPEG,parachute
+585,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_2924.JPEG,parachute
+586,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_20397.JPEG,parachute
+587,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_20394.JPEG,parachute
+588,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_20385.JPEG,parachute
+589,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_36594.JPEG,parachute
+590,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_26127.JPEG,parachute
+591,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_20324.JPEG,parachute
+592,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_20245.JPEG,parachute
+593,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_20206.JPEG,parachute
+594,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_20148.JPEG,parachute
+595,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_20124.JPEG,parachute
+596,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_19485.JPEG,parachute
+597,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_20114.JPEG,parachute
+598,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_2007.JPEG,parachute
+599,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_20025.JPEG,parachute
+600,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_19973.JPEG,parachute
+601,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_19805.JPEG,parachute
+602,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_19717.JPEG,parachute
+603,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_19707.JPEG,parachute
+604,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_19648.JPEG,parachute
+605,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_19499.JPEG,parachute
+606,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_19494.JPEG,parachute
+607,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_22926.JPEG,parachute
+608,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_19484.JPEG,parachute
+609,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_1929.JPEG,parachute
+610,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_19249.JPEG,parachute
+611,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_4259.JPEG,parachute
+612,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_19139.JPEG,parachute
+613,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_19103.JPEG,parachute
+614,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_19095.JPEG,parachute
+615,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_19079.JPEG,parachute
+616,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_18974.JPEG,parachute
+617,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_18956.JPEG,parachute
+618,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_15816.JPEG,parachute
+619,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_18939.JPEG,parachute
+620,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_18908.JPEG,parachute
+621,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_18898.JPEG,parachute
+622,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_1876.JPEG,parachute
+623,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_18725.JPEG,parachute
+624,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_18716.JPEG,parachute
+625,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_18687.JPEG,parachute
+626,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_18664.JPEG,parachute
+627,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_18637.JPEG,parachute
+628,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_18464.JPEG,parachute
+629,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_18436.JPEG,parachute
+630,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_18356.JPEG,parachute
+631,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_18288.JPEG,parachute
+632,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_18267.JPEG,parachute
+633,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_18208.JPEG,parachute
+634,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_18198.JPEG,parachute
+635,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_18127.JPEG,parachute
+636,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_18105.JPEG,parachute
+637,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_18096.JPEG,parachute
+638,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_1809.JPEG,parachute
+639,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_18075.JPEG,parachute
+640,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_18055.JPEG,parachute
+641,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_18026.JPEG,parachute
+642,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_8199.JPEG,parachute
+643,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_18.JPEG,parachute
+644,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_17999.JPEG,parachute
+645,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_1797.JPEG,parachute
+646,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_17929.JPEG,parachute
+647,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_17907.JPEG,parachute
+648,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_17848.JPEG,parachute
+649,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_17783.JPEG,parachute
+650,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_17727.JPEG,parachute
+651,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_17708.JPEG,parachute
+652,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_17703.JPEG,parachute
+653,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_1769.JPEG,parachute
+654,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_1767.JPEG,parachute
+655,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_26867.JPEG,parachute
+656,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_17585.JPEG,parachute
+657,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_17565.JPEG,parachute
+658,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_17533.JPEG,parachute
+659,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_17513.JPEG,parachute
+660,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_17387.JPEG,parachute
+661,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_24338.JPEG,parachute
+662,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_17368.JPEG,parachute
+663,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_17326.JPEG,parachute
+664,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_17269.JPEG,parachute
+665,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_17235.JPEG,parachute
+666,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_17206.JPEG,parachute
+667,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_24204.JPEG,parachute
+668,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_17164.JPEG,parachute
+669,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_17143.JPEG,parachute
+670,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_17133.JPEG,parachute
+671,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_17063.JPEG,parachute
+672,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_17048.JPEG,parachute
+673,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_17004.JPEG,parachute
+674,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_16977.JPEG,parachute
+675,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_1685.JPEG,parachute
+676,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_16826.JPEG,parachute
+677,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_16778.JPEG,parachute
+678,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_16765.JPEG,parachute
+679,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_16764.JPEG,parachute
+680,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_1675.JPEG,parachute
+681,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_167.JPEG,parachute
+682,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_16673.JPEG,parachute
+683,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_16595.JPEG,parachute
+684,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_16577.JPEG,parachute
+685,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_16575.JPEG,parachute
+686,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_16446.JPEG,parachute
+687,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_16419.JPEG,parachute
+688,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_53003.JPEG,parachute
+689,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_16369.JPEG,parachute
+690,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_16315.JPEG,parachute
+691,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_16299.JPEG,parachute
+692,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_16296.JPEG,parachute
+693,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_16267.JPEG,parachute
+694,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_16256.JPEG,parachute
+695,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_16223.JPEG,parachute
+696,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_16173.JPEG,parachute
+697,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_1608.JPEG,parachute
+698,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_16077.JPEG,parachute
+699,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_15948.JPEG,parachute
+700,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_15946.JPEG,parachute
+701,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_30683.JPEG,parachute
+702,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_15914.JPEG,parachute
+703,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_1586.JPEG,parachute
+704,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_15826.JPEG,parachute
+705,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_33668.JPEG,parachute
+706,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_15797.JPEG,parachute
+707,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_15786.JPEG,parachute
+708,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_15779.JPEG,parachute
+709,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_15777.JPEG,parachute
+710,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_18947.JPEG,parachute
+711,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_15697.JPEG,parachute
+712,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_15617.JPEG,parachute
+713,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_1553.JPEG,parachute
+714,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_15527.JPEG,parachute
+715,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_15486.JPEG,parachute
+716,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_15415.JPEG,parachute
+717,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_15395.JPEG,parachute
+718,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_15364.JPEG,parachute
+719,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_15299.JPEG,parachute
+720,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_15234.JPEG,parachute
+721,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_1517.JPEG,parachute
+722,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_15096.JPEG,parachute
+723,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_15067.JPEG,parachute
+724,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_15019.JPEG,parachute
+725,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_14974.JPEG,parachute
+726,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_14967.JPEG,parachute
+727,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_1496.JPEG,parachute
+728,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_1487.JPEG,parachute
+729,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_14859.JPEG,parachute
+730,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_14853.JPEG,parachute
+731,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_14703.JPEG,parachute
+732,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_14583.JPEG,parachute
+733,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_14504.JPEG,parachute
+734,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_14497.JPEG,parachute
+735,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_1446.JPEG,parachute
+736,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_14368.JPEG,parachute
+737,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_14304.JPEG,parachute
+738,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_14128.JPEG,parachute
+739,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_14089.JPEG,parachute
+740,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_14065.JPEG,parachute
+741,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_14019.JPEG,parachute
+742,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_35555.JPEG,parachute
+743,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_14005.JPEG,parachute
+744,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_13944.JPEG,parachute
+745,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_13896.JPEG,parachute
+746,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_13894.JPEG,parachute
+747,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_1389.JPEG,parachute
+748,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_13769.JPEG,parachute
+749,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_13596.JPEG,parachute
+750,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_13587.JPEG,parachute
+751,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_13565.JPEG,parachute
+752,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_13476.JPEG,parachute
+753,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_1346.JPEG,parachute
+754,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_13315.JPEG,parachute
+755,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_13314.JPEG,parachute
+756,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_13285.JPEG,parachute
+757,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_13283.JPEG,parachute
+758,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_13276.JPEG,parachute
+759,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_13264.JPEG,parachute
+760,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_13236.JPEG,parachute
+761,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_13224.JPEG,parachute
+762,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_13209.JPEG,parachute
+763,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_13208.JPEG,parachute
+764,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_13198.JPEG,parachute
+765,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_13184.JPEG,parachute
+766,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_13175.JPEG,parachute
+767,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_1175.JPEG,parachute
+768,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_13114.JPEG,parachute
+769,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_26584.JPEG,parachute
+770,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_9066.JPEG,parachute
+771,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_13074.JPEG,parachute
+772,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_13029.JPEG,parachute
+773,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_13016.JPEG,parachute
+774,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_12973.JPEG,parachute
+775,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_31624.JPEG,parachute
+776,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_1286.JPEG,parachute
+777,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_12816.JPEG,parachute
+778,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_20433.JPEG,parachute
+779,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_12788.JPEG,parachute
+780,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_12775.JPEG,parachute
+781,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_20118.JPEG,parachute
+782,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_12694.JPEG,parachute
+783,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_1265.JPEG,parachute
+784,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_12628.JPEG,parachute
+785,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_12593.JPEG,parachute
+786,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_12568.JPEG,parachute
+787,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_12517.JPEG,parachute
+788,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_13129.JPEG,parachute
+789,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_12413.JPEG,parachute
+790,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_12378.JPEG,parachute
+791,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_12349.JPEG,parachute
+792,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_12326.JPEG,parachute
+793,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_12323.JPEG,parachute
+794,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_12247.JPEG,parachute
+795,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_12235.JPEG,parachute
+796,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_12205.JPEG,parachute
+797,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_12195.JPEG,parachute
+798,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_12165.JPEG,parachute
+799,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_12164.JPEG,parachute
+800,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_12094.JPEG,parachute
+801,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_12088.JPEG,parachute
+802,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_12055.JPEG,parachute
+803,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_12053.JPEG,parachute
+804,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_12049.JPEG,parachute
+805,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_11943.JPEG,parachute
+806,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_11886.JPEG,parachute
+807,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_11854.JPEG,parachute
+808,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_11845.JPEG,parachute
+809,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_11809.JPEG,parachute
+810,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_11803.JPEG,parachute
+811,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_11787.JPEG,parachute
+812,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_11759.JPEG,parachute
+813,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_11755.JPEG,parachute
+814,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_1593.JPEG,parachute
+815,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_11737.JPEG,parachute
+816,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_11699.JPEG,parachute
+817,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_11697.JPEG,parachute
+818,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_11694.JPEG,parachute
+819,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_11658.JPEG,parachute
+820,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_50108.JPEG,parachute
+821,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_11609.JPEG,parachute
+822,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_11593.JPEG,parachute
+823,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_11587.JPEG,parachute
+824,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_11584.JPEG,parachute
+825,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_11539.JPEG,parachute
+826,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_11494.JPEG,parachute
+827,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_11477.JPEG,parachute
+828,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_11439.JPEG,parachute
+829,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_11387.JPEG,parachute
+830,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_11378.JPEG,parachute
+831,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_1137.JPEG,parachute
+832,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_11359.JPEG,parachute
+833,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_1135.JPEG,parachute
+834,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_11326.JPEG,parachute
+835,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_11313.JPEG,parachute
+836,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_11255.JPEG,parachute
+837,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_11237.JPEG,parachute
+838,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_11628.JPEG,parachute
+839,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_11187.JPEG,parachute
+840,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_11137.JPEG,parachute
+841,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_11109.JPEG,parachute
+842,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_11098.JPEG,parachute
+843,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_50106.JPEG,parachute
+844,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_11053.JPEG,parachute
+845,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_11014.JPEG,parachute
+846,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_10999.JPEG,parachute
+847,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_1097.JPEG,parachute
+848,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_10949.JPEG,parachute
+849,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_10946.JPEG,parachute
+850,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_10933.JPEG,parachute
+851,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_10923.JPEG,parachute
+852,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_10919.JPEG,parachute
+853,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_10916.JPEG,parachute
+854,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_10913.JPEG,parachute
+855,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_10844.JPEG,parachute
+856,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_10796.JPEG,parachute
+857,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_29449.JPEG,parachute
+858,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_1075.JPEG,parachute
+859,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_10748.JPEG,parachute
+860,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_10744.JPEG,parachute
+861,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_1074.JPEG,parachute
+862,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_10708.JPEG,parachute
+863,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_10703.JPEG,parachute
+864,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_10653.JPEG,parachute
+865,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_10645.JPEG,parachute
+866,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_10639.JPEG,parachute
+867,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_10568.JPEG,parachute
+868,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_10564.JPEG,parachute
+869,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_10499.JPEG,parachute
+870,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_10495.JPEG,parachute
+871,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_10476.JPEG,parachute
+872,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_10464.JPEG,parachute
+873,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_10364.JPEG,parachute
+874,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_10345.JPEG,parachute
+875,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_10315.JPEG,parachute
+876,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_10263.JPEG,parachute
+877,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_10166.JPEG,parachute
+878,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_10157.JPEG,parachute
+879,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_10136.JPEG,parachute
+880,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_10106.JPEG,parachute
+881,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_10079.JPEG,parachute
+882,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_10068.JPEG,parachute
+883,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_10063.JPEG,parachute
+884,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_10044.JPEG,parachute
+885,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_10037.JPEG,parachute
+886,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_10014.JPEG,parachute
+887,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/ILSVRC2012_val_00047778.JPEG,parachute
+888,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/ILSVRC2012_val_00047705.JPEG,parachute
+889,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/ILSVRC2012_val_00047147.JPEG,parachute
+890,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/ILSVRC2012_val_00041925.JPEG,parachute
+891,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/ILSVRC2012_val_00041706.JPEG,parachute
+892,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/ILSVRC2012_val_00039045.JPEG,parachute
+893,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/ILSVRC2012_val_00034544.JPEG,parachute
+894,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_10775.JPEG,parachute
+895,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/ILSVRC2012_val_00031035.JPEG,parachute
+896,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/ILSVRC2012_val_00030583.JPEG,parachute
+897,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/ILSVRC2012_val_00029149.JPEG,parachute
+898,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/ILSVRC2012_val_00026575.JPEG,parachute
+899,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/ILSVRC2012_val_00023107.JPEG,parachute
+900,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/ILSVRC2012_val_00022638.JPEG,parachute
+901,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/ILSVRC2012_val_00022496.JPEG,parachute
+902,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/ILSVRC2012_val_00020698.JPEG,parachute
+903,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/ILSVRC2012_val_00020003.JPEG,parachute
+904,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/ILSVRC2012_val_00019289.JPEG,parachute
+905,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/ILSVRC2012_val_00018509.JPEG,parachute
+906,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/ILSVRC2012_val_00018229.JPEG,parachute
+907,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/ILSVRC2012_val_00017919.JPEG,parachute
+908,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/ILSVRC2012_val_00016387.JPEG,parachute
+909,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_3797.JPEG,parachute
+910,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/ILSVRC2012_val_00015689.JPEG,parachute
+911,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/ILSVRC2012_val_00013527.JPEG,parachute
+912,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/ILSVRC2012_val_00011324.JPEG,parachute
+913,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/ILSVRC2012_val_00010427.JPEG,parachute
+914,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/ILSVRC2012_val_00010336.JPEG,parachute
+915,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/ILSVRC2012_val_00009873.JPEG,parachute
+916,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/ILSVRC2012_val_00009593.JPEG,parachute
+917,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_20344.JPEG,parachute
+918,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/ILSVRC2012_val_00009269.JPEG,parachute
+919,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/ILSVRC2012_val_00007616.JPEG,parachute
+920,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/ILSVRC2012_val_00004745.JPEG,parachute
+921,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/ILSVRC2012_val_00002665.JPEG,parachute
+922,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/ILSVRC2012_val_00002508.JPEG,parachute
+923,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_12753.JPEG,parachute
+924,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_18023.JPEG,parachute
+925,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_22949.JPEG,parachute
+926,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/ILSVRC2012_val_00015787.JPEG,parachute
+927,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_25224.JPEG,parachute
+928,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_11216.JPEG,parachute
+929,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_12883.JPEG,parachute
+930,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_34607.JPEG,parachute
+931,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_8639.JPEG,parachute
+932,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_67668.JPEG,parachute
+933,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_43034.JPEG,parachute
+934,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_14016.JPEG,parachute
+935,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_23863.JPEG,parachute
+936,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_17424.JPEG,parachute
+937,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/ILSVRC2012_val_00009559.JPEG,parachute
+938,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_6468.JPEG,parachute
+939,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_16403.JPEG,parachute
+940,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_64147.JPEG,parachute
+941,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_9373.JPEG,parachute
+942,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_11056.JPEG,parachute
+943,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_2033.JPEG,parachute
+944,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_12446.JPEG,parachute
+945,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/ILSVRC2012_val_00031268.JPEG,parachute
+946,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_5357.JPEG,parachute
+947,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_17175.JPEG,parachute
+948,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_15735.JPEG,parachute
+949,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_13075.JPEG,parachute
+950,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_22018.JPEG,parachute
+951,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_17619.JPEG,parachute
+952,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_19163.JPEG,parachute
+953,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_128.JPEG,parachute
+954,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_31974.JPEG,parachute
+955,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_21628.JPEG,parachute
+956,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_5543.JPEG,parachute
+957,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_30185.JPEG,parachute
+958,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_6336.JPEG,parachute
+959,/home/taehun/dvc_test/data-version-control/data/raw/train/n03888257/n03888257_13078.JPEG,parachute
+960,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_9289.JPEG,golf ball
+961,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8779.JPEG,golf ball
+962,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_9157.JPEG,golf ball
+963,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_899.JPEG,golf ball
+964,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8446.JPEG,golf ball
+965,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8678.JPEG,golf ball
+966,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8797.JPEG,golf ball
+967,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_9248.JPEG,golf ball
+968,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_9753.JPEG,golf ball
+969,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_998.JPEG,golf ball
+970,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_9865.JPEG,golf ball
+971,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_9844.JPEG,golf ball
+972,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_939.JPEG,golf ball
+973,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8414.JPEG,golf ball
+974,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8474.JPEG,golf ball
+975,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8477.JPEG,golf ball
+976,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8683.JPEG,golf ball
+977,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_9517.JPEG,golf ball
+978,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_9056.JPEG,golf ball
+979,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_95.JPEG,golf ball
+980,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8197.JPEG,golf ball
+981,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_9118.JPEG,golf ball
+982,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_9436.JPEG,golf ball
+983,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_9185.JPEG,golf ball
+984,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_9297.JPEG,golf ball
+985,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_9746.JPEG,golf ball
+986,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_9939.JPEG,golf ball
+987,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8315.JPEG,golf ball
+988,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_9976.JPEG,golf ball
+989,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_9966.JPEG,golf ball
+990,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_9265.JPEG,golf ball
+991,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8838.JPEG,golf ball
+992,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_9199.JPEG,golf ball
+993,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_9915.JPEG,golf ball
+994,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_886.JPEG,golf ball
+995,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_9325.JPEG,golf ball
+996,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_9179.JPEG,golf ball
+997,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8839.JPEG,golf ball
+998,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8677.JPEG,golf ball
+999,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_9374.JPEG,golf ball
+1000,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_936.JPEG,golf ball
+1001,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8343.JPEG,golf ball
+1002,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_9543.JPEG,golf ball
+1003,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8986.JPEG,golf ball
+1004,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8985.JPEG,golf ball
+1005,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8954.JPEG,golf ball
+1006,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_889.JPEG,golf ball
+1007,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_9159.JPEG,golf ball
+1008,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_887.JPEG,golf ball
+1009,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_9888.JPEG,golf ball
+1010,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8817.JPEG,golf ball
+1011,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_9947.JPEG,golf ball
+1012,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_9688.JPEG,golf ball
+1013,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8718.JPEG,golf ball
+1014,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8694.JPEG,golf ball
+1015,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8339.JPEG,golf ball
+1016,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_9344.JPEG,golf ball
+1017,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8663.JPEG,golf ball
+1018,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_866.JPEG,golf ball
+1019,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8616.JPEG,golf ball
+1020,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_9854.JPEG,golf ball
+1021,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8964.JPEG,golf ball
+1022,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8544.JPEG,golf ball
+1023,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8484.JPEG,golf ball
+1024,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8448.JPEG,golf ball
+1025,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_9438.JPEG,golf ball
+1026,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8418.JPEG,golf ball
+1027,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8876.JPEG,golf ball
+1028,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8394.JPEG,golf ball
+1029,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_838.JPEG,golf ball
+1030,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_9696.JPEG,golf ball
+1031,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8289.JPEG,golf ball
+1032,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_9138.JPEG,golf ball
+1033,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_828.JPEG,golf ball
+1034,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8266.JPEG,golf ball
+1035,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8953.JPEG,golf ball
+1036,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8956.JPEG,golf ball
+1037,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8209.JPEG,golf ball
+1038,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8679.JPEG,golf ball
+1039,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_9207.JPEG,golf ball
+1040,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8095.JPEG,golf ball
+1041,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8085.JPEG,golf ball
+1042,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8853.JPEG,golf ball
+1043,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_9187.JPEG,golf ball
+1044,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_9993.JPEG,golf ball
+1045,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8053.JPEG,golf ball
+1046,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8048.JPEG,golf ball
+1047,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8026.JPEG,golf ball
+1048,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8016.JPEG,golf ball
+1049,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8015.JPEG,golf ball
+1050,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8007.JPEG,golf ball
+1051,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7228.JPEG,golf ball
+1052,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7827.JPEG,golf ball
+1053,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_795.JPEG,golf ball
+1054,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7948.JPEG,golf ball
+1055,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7947.JPEG,golf ball
+1056,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6534.JPEG,golf ball
+1057,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7939.JPEG,golf ball
+1058,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_9133.JPEG,golf ball
+1059,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7915.JPEG,golf ball
+1060,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7864.JPEG,golf ball
+1061,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7857.JPEG,golf ball
+1062,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7855.JPEG,golf ball
+1063,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7853.JPEG,golf ball
+1064,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_646.JPEG,golf ball
+1065,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_9667.JPEG,golf ball
+1066,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7808.JPEG,golf ball
+1067,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7794.JPEG,golf ball
+1068,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8599.JPEG,golf ball
+1069,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7776.JPEG,golf ball
+1070,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7767.JPEG,golf ball
+1071,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7758.JPEG,golf ball
+1072,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7756.JPEG,golf ball
+1073,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_9216.JPEG,golf ball
+1074,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7744.JPEG,golf ball
+1075,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7739.JPEG,golf ball
+1076,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7729.JPEG,golf ball
+1077,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7687.JPEG,golf ball
+1078,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7686.JPEG,golf ball
+1079,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8056.JPEG,golf ball
+1080,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7666.JPEG,golf ball
+1081,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7665.JPEG,golf ball
+1082,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7647.JPEG,golf ball
+1083,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_715.JPEG,golf ball
+1084,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7634.JPEG,golf ball
+1085,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7616.JPEG,golf ball
+1086,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_759.JPEG,golf ball
+1087,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7566.JPEG,golf ball
+1088,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7563.JPEG,golf ball
+1089,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7557.JPEG,golf ball
+1090,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_9236.JPEG,golf ball
+1091,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7524.JPEG,golf ball
+1092,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_9515.JPEG,golf ball
+1093,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8707.JPEG,golf ball
+1094,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7498.JPEG,golf ball
+1095,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_748.JPEG,golf ball
+1096,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8079.JPEG,golf ball
+1097,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8403.JPEG,golf ball
+1098,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7395.JPEG,golf ball
+1099,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7336.JPEG,golf ball
+1100,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6537.JPEG,golf ball
+1101,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7286.JPEG,golf ball
+1102,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7283.JPEG,golf ball
+1103,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7277.JPEG,golf ball
+1104,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7255.JPEG,golf ball
+1105,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7243.JPEG,golf ball
+1106,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_724.JPEG,golf ball
+1107,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7238.JPEG,golf ball
+1108,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_723.JPEG,golf ball
+1109,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8546.JPEG,golf ball
+1110,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7208.JPEG,golf ball
+1111,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_9914.JPEG,golf ball
+1112,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7196.JPEG,golf ball
+1113,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7184.JPEG,golf ball
+1114,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7178.JPEG,golf ball
+1115,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_785.JPEG,golf ball
+1116,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7168.JPEG,golf ball
+1117,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7154.JPEG,golf ball
+1118,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_9908.JPEG,golf ball
+1119,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7147.JPEG,golf ball
+1120,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7146.JPEG,golf ball
+1121,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7118.JPEG,golf ball
+1122,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7095.JPEG,golf ball
+1123,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8365.JPEG,golf ball
+1124,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7538.JPEG,golf ball
+1125,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_9124.JPEG,golf ball
+1126,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7015.JPEG,golf ball
+1127,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6949.JPEG,golf ball
+1128,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6926.JPEG,golf ball
+1129,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6925.JPEG,golf ball
+1130,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6918.JPEG,golf ball
+1131,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6908.JPEG,golf ball
+1132,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6574.JPEG,golf ball
+1133,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6856.JPEG,golf ball
+1134,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_9379.JPEG,golf ball
+1135,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_75.JPEG,golf ball
+1136,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6809.JPEG,golf ball
+1137,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6794.JPEG,golf ball
+1138,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8628.JPEG,golf ball
+1139,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7086.JPEG,golf ball
+1140,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6789.JPEG,golf ball
+1141,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_755.JPEG,golf ball
+1142,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6759.JPEG,golf ball
+1143,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7428.JPEG,golf ball
+1144,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6656.JPEG,golf ball
+1145,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_874.JPEG,golf ball
+1146,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6637.JPEG,golf ball
+1147,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_663.JPEG,golf ball
+1148,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6606.JPEG,golf ball
+1149,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6594.JPEG,golf ball
+1150,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8004.JPEG,golf ball
+1151,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6548.JPEG,golf ball
+1152,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6545.JPEG,golf ball
+1153,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_654.JPEG,golf ball
+1154,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6539.JPEG,golf ball
+1155,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_9105.JPEG,golf ball
+1156,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6516.JPEG,golf ball
+1157,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_9787.JPEG,golf ball
+1158,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6515.JPEG,golf ball
+1159,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6489.JPEG,golf ball
+1160,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6465.JPEG,golf ball
+1161,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_9587.JPEG,golf ball
+1162,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6435.JPEG,golf ball
+1163,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6427.JPEG,golf ball
+1164,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6416.JPEG,golf ball
+1165,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8225.JPEG,golf ball
+1166,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6399.JPEG,golf ball
+1167,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6397.JPEG,golf ball
+1168,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6396.JPEG,golf ball
+1169,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6388.JPEG,golf ball
+1170,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8224.JPEG,golf ball
+1171,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6383.JPEG,golf ball
+1172,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_9255.JPEG,golf ball
+1173,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6347.JPEG,golf ball
+1174,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6335.JPEG,golf ball
+1175,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6324.JPEG,golf ball
+1176,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6415.JPEG,golf ball
+1177,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6276.JPEG,golf ball
+1178,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8624.JPEG,golf ball
+1179,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7945.JPEG,golf ball
+1180,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_624.JPEG,golf ball
+1181,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6215.JPEG,golf ball
+1182,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6195.JPEG,golf ball
+1183,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6188.JPEG,golf ball
+1184,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6173.JPEG,golf ball
+1185,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8268.JPEG,golf ball
+1186,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6134.JPEG,golf ball
+1187,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_607.JPEG,golf ball
+1188,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6067.JPEG,golf ball
+1189,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_606.JPEG,golf ball
+1190,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6038.JPEG,golf ball
+1191,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6033.JPEG,golf ball
+1192,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_603.JPEG,golf ball
+1193,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6029.JPEG,golf ball
+1194,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6019.JPEG,golf ball
+1195,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6016.JPEG,golf ball
+1196,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6.JPEG,golf ball
+1197,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5996.JPEG,golf ball
+1198,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5979.JPEG,golf ball
+1199,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5939.JPEG,golf ball
+1200,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5934.JPEG,golf ball
+1201,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5916.JPEG,golf ball
+1202,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_9257.JPEG,golf ball
+1203,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5908.JPEG,golf ball
+1204,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_59.JPEG,golf ball
+1205,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5893.JPEG,golf ball
+1206,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5856.JPEG,golf ball
+1207,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_585.JPEG,golf ball
+1208,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_584.JPEG,golf ball
+1209,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5838.JPEG,golf ball
+1210,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6158.JPEG,golf ball
+1211,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5816.JPEG,golf ball
+1212,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5814.JPEG,golf ball
+1213,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5809.JPEG,golf ball
+1214,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5804.JPEG,golf ball
+1215,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5786.JPEG,golf ball
+1216,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5775.JPEG,golf ball
+1217,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5768.JPEG,golf ball
+1218,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5766.JPEG,golf ball
+1219,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5765.JPEG,golf ball
+1220,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5757.JPEG,golf ball
+1221,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5745.JPEG,golf ball
+1222,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5743.JPEG,golf ball
+1223,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_574.JPEG,golf ball
+1224,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5723.JPEG,golf ball
+1225,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5713.JPEG,golf ball
+1226,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5707.JPEG,golf ball
+1227,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_9028.JPEG,golf ball
+1228,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5699.JPEG,golf ball
+1229,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5694.JPEG,golf ball
+1230,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5667.JPEG,golf ball
+1231,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5665.JPEG,golf ball
+1232,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5637.JPEG,golf ball
+1233,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5597.JPEG,golf ball
+1234,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5594.JPEG,golf ball
+1235,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5588.JPEG,golf ball
+1236,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5573.JPEG,golf ball
+1237,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5568.JPEG,golf ball
+1238,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7919.JPEG,golf ball
+1239,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5546.JPEG,golf ball
+1240,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5534.JPEG,golf ball
+1241,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5509.JPEG,golf ball
+1242,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5505.JPEG,golf ball
+1243,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5504.JPEG,golf ball
+1244,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5485.JPEG,golf ball
+1245,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5469.JPEG,golf ball
+1246,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5467.JPEG,golf ball
+1247,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5463.JPEG,golf ball
+1248,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5457.JPEG,golf ball
+1249,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5434.JPEG,golf ball
+1250,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5428.JPEG,golf ball
+1251,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5423.JPEG,golf ball
+1252,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5377.JPEG,golf ball
+1253,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7174.JPEG,golf ball
+1254,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5373.JPEG,golf ball
+1255,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5358.JPEG,golf ball
+1256,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_9675.JPEG,golf ball
+1257,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5337.JPEG,golf ball
+1258,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5336.JPEG,golf ball
+1259,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5333.JPEG,golf ball
+1260,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5325.JPEG,golf ball
+1261,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5316.JPEG,golf ball
+1262,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5353.JPEG,golf ball
+1263,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5305.JPEG,golf ball
+1264,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5297.JPEG,golf ball
+1265,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5289.JPEG,golf ball
+1266,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5269.JPEG,golf ball
+1267,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5266.JPEG,golf ball
+1268,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5265.JPEG,golf ball
+1269,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_524.JPEG,golf ball
+1270,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_523.JPEG,golf ball
+1271,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5224.JPEG,golf ball
+1272,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5218.JPEG,golf ball
+1273,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_9245.JPEG,golf ball
+1274,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5216.JPEG,golf ball
+1275,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5213.JPEG,golf ball
+1276,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5194.JPEG,golf ball
+1277,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5184.JPEG,golf ball
+1278,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5159.JPEG,golf ball
+1279,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_833.JPEG,golf ball
+1280,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5139.JPEG,golf ball
+1281,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5125.JPEG,golf ball
+1282,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5117.JPEG,golf ball
+1283,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5114.JPEG,golf ball
+1284,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5107.JPEG,golf ball
+1285,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5097.JPEG,golf ball
+1286,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5043.JPEG,golf ball
+1287,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_504.JPEG,golf ball
+1288,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5029.JPEG,golf ball
+1289,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5026.JPEG,golf ball
+1290,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5023.JPEG,golf ball
+1291,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5009.JPEG,golf ball
+1292,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5008.JPEG,golf ball
+1293,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5007.JPEG,golf ball
+1294,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4998.JPEG,golf ball
+1295,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6785.JPEG,golf ball
+1296,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4984.JPEG,golf ball
+1297,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_498.JPEG,golf ball
+1298,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4966.JPEG,golf ball
+1299,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4959.JPEG,golf ball
+1300,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_494.JPEG,golf ball
+1301,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4939.JPEG,golf ball
+1302,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4929.JPEG,golf ball
+1303,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4914.JPEG,golf ball
+1304,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4894.JPEG,golf ball
+1305,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_768.JPEG,golf ball
+1306,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4883.JPEG,golf ball
+1307,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4879.JPEG,golf ball
+1308,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4878.JPEG,golf ball
+1309,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_487.JPEG,golf ball
+1310,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4855.JPEG,golf ball
+1311,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5825.JPEG,golf ball
+1312,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4849.JPEG,golf ball
+1313,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4834.JPEG,golf ball
+1314,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4818.JPEG,golf ball
+1315,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4814.JPEG,golf ball
+1316,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4715.JPEG,golf ball
+1317,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4709.JPEG,golf ball
+1318,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4708.JPEG,golf ball
+1319,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4699.JPEG,golf ball
+1320,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4037.JPEG,golf ball
+1321,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4679.JPEG,golf ball
+1322,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4673.JPEG,golf ball
+1323,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4667.JPEG,golf ball
+1324,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4646.JPEG,golf ball
+1325,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_894.JPEG,golf ball
+1326,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4597.JPEG,golf ball
+1327,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4588.JPEG,golf ball
+1328,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4554.JPEG,golf ball
+1329,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_455.JPEG,golf ball
+1330,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6854.JPEG,golf ball
+1331,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4533.JPEG,golf ball
+1332,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_453.JPEG,golf ball
+1333,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4123.JPEG,golf ball
+1334,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_448.JPEG,golf ball
+1335,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4475.JPEG,golf ball
+1336,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4426.JPEG,golf ball
+1337,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4416.JPEG,golf ball
+1338,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4398.JPEG,golf ball
+1339,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_366.JPEG,golf ball
+1340,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4366.JPEG,golf ball
+1341,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4354.JPEG,golf ball
+1342,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4348.JPEG,golf ball
+1343,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4333.JPEG,golf ball
+1344,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4278.JPEG,golf ball
+1345,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4253.JPEG,golf ball
+1346,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4249.JPEG,golf ball
+1347,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4247.JPEG,golf ball
+1348,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4539.JPEG,golf ball
+1349,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_424.JPEG,golf ball
+1350,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4239.JPEG,golf ball
+1351,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4229.JPEG,golf ball
+1352,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4204.JPEG,golf ball
+1353,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4198.JPEG,golf ball
+1354,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4188.JPEG,golf ball
+1355,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_806.JPEG,golf ball
+1356,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4173.JPEG,golf ball
+1357,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_416.JPEG,golf ball
+1358,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4158.JPEG,golf ball
+1359,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4147.JPEG,golf ball
+1360,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4145.JPEG,golf ball
+1361,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4133.JPEG,golf ball
+1362,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7645.JPEG,golf ball
+1363,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_679.JPEG,golf ball
+1364,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4113.JPEG,golf ball
+1365,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8145.JPEG,golf ball
+1366,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4104.JPEG,golf ball
+1367,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4099.JPEG,golf ball
+1368,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4098.JPEG,golf ball
+1369,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4097.JPEG,golf ball
+1370,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4095.JPEG,golf ball
+1371,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4089.JPEG,golf ball
+1372,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6275.JPEG,golf ball
+1373,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4058.JPEG,golf ball
+1374,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4048.JPEG,golf ball
+1375,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4047.JPEG,golf ball
+1376,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_637.JPEG,golf ball
+1377,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4035.JPEG,golf ball
+1378,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_403.JPEG,golf ball
+1379,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5217.JPEG,golf ball
+1380,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3996.JPEG,golf ball
+1381,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3995.JPEG,golf ball
+1382,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_399.JPEG,golf ball
+1383,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_909.JPEG,golf ball
+1384,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_397.JPEG,golf ball
+1385,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3969.JPEG,golf ball
+1386,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3966.JPEG,golf ball
+1387,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3963.JPEG,golf ball
+1388,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3945.JPEG,golf ball
+1389,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3939.JPEG,golf ball
+1390,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_9017.JPEG,golf ball
+1391,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3928.JPEG,golf ball
+1392,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3927.JPEG,golf ball
+1393,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3919.JPEG,golf ball
+1394,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5909.JPEG,golf ball
+1395,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3895.JPEG,golf ball
+1396,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3879.JPEG,golf ball
+1397,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3865.JPEG,golf ball
+1398,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_385.JPEG,golf ball
+1399,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3849.JPEG,golf ball
+1400,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_384.JPEG,golf ball
+1401,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3837.JPEG,golf ball
+1402,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3836.JPEG,golf ball
+1403,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3833.JPEG,golf ball
+1404,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3829.JPEG,golf ball
+1405,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3827.JPEG,golf ball
+1406,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4115.JPEG,golf ball
+1407,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3816.JPEG,golf ball
+1408,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3799.JPEG,golf ball
+1409,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3788.JPEG,golf ball
+1410,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3775.JPEG,golf ball
+1411,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3755.JPEG,golf ball
+1412,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_373.JPEG,golf ball
+1413,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4685.JPEG,golf ball
+1414,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3696.JPEG,golf ball
+1415,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3673.JPEG,golf ball
+1416,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4028.JPEG,golf ball
+1417,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3633.JPEG,golf ball
+1418,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3614.JPEG,golf ball
+1419,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3608.JPEG,golf ball
+1420,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_36.JPEG,golf ball
+1421,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3595.JPEG,golf ball
+1422,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3567.JPEG,golf ball
+1423,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_356.JPEG,golf ball
+1424,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3549.JPEG,golf ball
+1425,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3544.JPEG,golf ball
+1426,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3539.JPEG,golf ball
+1427,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3536.JPEG,golf ball
+1428,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3529.JPEG,golf ball
+1429,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3507.JPEG,golf ball
+1430,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3505.JPEG,golf ball
+1431,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3503.JPEG,golf ball
+1432,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3497.JPEG,golf ball
+1433,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3495.JPEG,golf ball
+1434,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3485.JPEG,golf ball
+1435,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3464.JPEG,golf ball
+1436,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4109.JPEG,golf ball
+1437,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6658.JPEG,golf ball
+1438,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3444.JPEG,golf ball
+1439,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3429.JPEG,golf ball
+1440,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3413.JPEG,golf ball
+1441,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3397.JPEG,golf ball
+1442,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3386.JPEG,golf ball
+1443,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3374.JPEG,golf ball
+1444,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3358.JPEG,golf ball
+1445,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3356.JPEG,golf ball
+1446,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3345.JPEG,golf ball
+1447,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_333.JPEG,golf ball
+1448,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3325.JPEG,golf ball
+1449,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3119.JPEG,golf ball
+1450,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3307.JPEG,golf ball
+1451,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3299.JPEG,golf ball
+1452,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3296.JPEG,golf ball
+1453,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3283.JPEG,golf ball
+1454,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4615.JPEG,golf ball
+1455,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3275.JPEG,golf ball
+1456,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3254.JPEG,golf ball
+1457,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3229.JPEG,golf ball
+1458,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3217.JPEG,golf ball
+1459,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3209.JPEG,golf ball
+1460,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3168.JPEG,golf ball
+1461,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3166.JPEG,golf ball
+1462,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3155.JPEG,golf ball
+1463,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3134.JPEG,golf ball
+1464,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4367.JPEG,golf ball
+1465,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3104.JPEG,golf ball
+1466,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3095.JPEG,golf ball
+1467,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3064.JPEG,golf ball
+1468,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3063.JPEG,golf ball
+1469,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_306.JPEG,golf ball
+1470,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3046.JPEG,golf ball
+1471,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3039.JPEG,golf ball
+1472,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3036.JPEG,golf ball
+1473,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_303.JPEG,golf ball
+1474,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3023.JPEG,golf ball
+1475,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3005.JPEG,golf ball
+1476,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6807.JPEG,golf ball
+1477,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_298.JPEG,golf ball
+1478,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2967.JPEG,golf ball
+1479,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2963.JPEG,golf ball
+1480,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2955.JPEG,golf ball
+1481,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2954.JPEG,golf ball
+1482,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2925.JPEG,golf ball
+1483,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2907.JPEG,golf ball
+1484,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2873.JPEG,golf ball
+1485,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2814.JPEG,golf ball
+1486,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_278.JPEG,golf ball
+1487,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2776.JPEG,golf ball
+1488,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2775.JPEG,golf ball
+1489,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2745.JPEG,golf ball
+1490,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2718.JPEG,golf ball
+1491,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2716.JPEG,golf ball
+1492,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2713.JPEG,golf ball
+1493,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2687.JPEG,golf ball
+1494,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_743.JPEG,golf ball
+1495,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2646.JPEG,golf ball
+1496,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2637.JPEG,golf ball
+1497,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2635.JPEG,golf ball
+1498,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2634.JPEG,golf ball
+1499,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2616.JPEG,golf ball
+1500,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2608.JPEG,golf ball
+1501,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2605.JPEG,golf ball
+1502,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2597.JPEG,golf ball
+1503,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2585.JPEG,golf ball
+1504,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_258.JPEG,golf ball
+1505,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2564.JPEG,golf ball
+1506,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2563.JPEG,golf ball
+1507,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2557.JPEG,golf ball
+1508,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2555.JPEG,golf ball
+1509,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2548.JPEG,golf ball
+1510,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2526.JPEG,golf ball
+1511,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8288.JPEG,golf ball
+1512,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2497.JPEG,golf ball
+1513,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2493.JPEG,golf ball
+1514,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2486.JPEG,golf ball
+1515,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2477.JPEG,golf ball
+1516,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2468.JPEG,golf ball
+1517,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2463.JPEG,golf ball
+1518,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2427.JPEG,golf ball
+1519,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2417.JPEG,golf ball
+1520,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4985.JPEG,golf ball
+1521,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_24.JPEG,golf ball
+1522,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2397.JPEG,golf ball
+1523,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_237.JPEG,golf ball
+1524,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2358.JPEG,golf ball
+1525,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2357.JPEG,golf ball
+1526,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2356.JPEG,golf ball
+1527,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8829.JPEG,golf ball
+1528,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2338.JPEG,golf ball
+1529,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2335.JPEG,golf ball
+1530,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2318.JPEG,golf ball
+1531,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2314.JPEG,golf ball
+1532,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2298.JPEG,golf ball
+1533,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2269.JPEG,golf ball
+1534,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2253.JPEG,golf ball
+1535,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2244.JPEG,golf ball
+1536,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2227.JPEG,golf ball
+1537,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2207.JPEG,golf ball
+1538,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2194.JPEG,golf ball
+1539,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2177.JPEG,golf ball
+1540,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2158.JPEG,golf ball
+1541,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2157.JPEG,golf ball
+1542,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2146.JPEG,golf ball
+1543,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2137.JPEG,golf ball
+1544,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2133.JPEG,golf ball
+1545,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2129.JPEG,golf ball
+1546,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2124.JPEG,golf ball
+1547,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2123.JPEG,golf ball
+1548,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2113.JPEG,golf ball
+1549,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2088.JPEG,golf ball
+1550,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2086.JPEG,golf ball
+1551,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2078.JPEG,golf ball
+1552,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_20777.JPEG,golf ball
+1553,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2077.JPEG,golf ball
+1554,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_20726.JPEG,golf ball
+1555,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_20724.JPEG,golf ball
+1556,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_20707.JPEG,golf ball
+1557,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_20618.JPEG,golf ball
+1558,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2059.JPEG,golf ball
+1559,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2055.JPEG,golf ball
+1560,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_20454.JPEG,golf ball
+1561,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2043.JPEG,golf ball
+1562,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2039.JPEG,golf ball
+1563,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2038.JPEG,golf ball
+1564,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2035.JPEG,golf ball
+1565,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_20319.JPEG,golf ball
+1566,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_20239.JPEG,golf ball
+1567,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2019.JPEG,golf ball
+1568,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2017.JPEG,golf ball
+1569,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_19933.JPEG,golf ball
+1570,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_1993.JPEG,golf ball
+1571,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_19926.JPEG,golf ball
+1572,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_1988.JPEG,golf ball
+1573,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2339.JPEG,golf ball
+1574,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_1983.JPEG,golf ball
+1575,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_19809.JPEG,golf ball
+1576,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_19807.JPEG,golf ball
+1577,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_19765.JPEG,golf ball
+1578,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_1976.JPEG,golf ball
+1579,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_1969.JPEG,golf ball
+1580,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_19586.JPEG,golf ball
+1581,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_1953.JPEG,golf ball
+1582,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_19515.JPEG,golf ball
+1583,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6384.JPEG,golf ball
+1584,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_1928.JPEG,golf ball
+1585,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_19159.JPEG,golf ball
+1586,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_1908.JPEG,golf ball
+1587,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_18958.JPEG,golf ball
+1588,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5309.JPEG,golf ball
+1589,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_18804.JPEG,golf ball
+1590,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_1879.JPEG,golf ball
+1591,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_18756.JPEG,golf ball
+1592,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_18705.JPEG,golf ball
+1593,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6848.JPEG,golf ball
+1594,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_18643.JPEG,golf ball
+1595,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_18613.JPEG,golf ball
+1596,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_18603.JPEG,golf ball
+1597,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_1855.JPEG,golf ball
+1598,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_1848.JPEG,golf ball
+1599,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_18428.JPEG,golf ball
+1600,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_18388.JPEG,golf ball
+1601,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_1838.JPEG,golf ball
+1602,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_18234.JPEG,golf ball
+1603,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_1817.JPEG,golf ball
+1604,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_18147.JPEG,golf ball
+1605,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_1809.JPEG,golf ball
+1606,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_18068.JPEG,golf ball
+1607,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_18067.JPEG,golf ball
+1608,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_1804.JPEG,golf ball
+1609,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_18007.JPEG,golf ball
+1610,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_17833.JPEG,golf ball
+1611,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_17813.JPEG,golf ball
+1612,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_17789.JPEG,golf ball
+1613,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_17703.JPEG,golf ball
+1614,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_17564.JPEG,golf ball
+1615,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_193.JPEG,golf ball
+1616,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_1746.JPEG,golf ball
+1617,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_17445.JPEG,golf ball
+1618,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_1737.JPEG,golf ball
+1619,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_17293.JPEG,golf ball
+1620,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_17276.JPEG,golf ball
+1621,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_17246.JPEG,golf ball
+1622,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3324.JPEG,golf ball
+1623,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_17157.JPEG,golf ball
+1624,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_17104.JPEG,golf ball
+1625,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_1698.JPEG,golf ball
+1626,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_1697.JPEG,golf ball
+1627,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_16895.JPEG,golf ball
+1628,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_1689.JPEG,golf ball
+1629,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_1686.JPEG,golf ball
+1630,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_16733.JPEG,golf ball
+1631,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_1668.JPEG,golf ball
+1632,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_16559.JPEG,golf ball
+1633,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_16434.JPEG,golf ball
+1634,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_16413.JPEG,golf ball
+1635,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_16399.JPEG,golf ball
+1636,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_16379.JPEG,golf ball
+1637,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_16309.JPEG,golf ball
+1638,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_16294.JPEG,golf ball
+1639,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_16258.JPEG,golf ball
+1640,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_16256.JPEG,golf ball
+1641,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_16228.JPEG,golf ball
+1642,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_16203.JPEG,golf ball
+1643,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_16189.JPEG,golf ball
+1644,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_16186.JPEG,golf ball
+1645,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_16166.JPEG,golf ball
+1646,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_1616.JPEG,golf ball
+1647,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_16143.JPEG,golf ball
+1648,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_16083.JPEG,golf ball
+1649,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_16078.JPEG,golf ball
+1650,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_16067.JPEG,golf ball
+1651,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_16036.JPEG,golf ball
+1652,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_15963.JPEG,golf ball
+1653,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_15958.JPEG,golf ball
+1654,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_15875.JPEG,golf ball
+1655,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_15787.JPEG,golf ball
+1656,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_15779.JPEG,golf ball
+1657,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_15777.JPEG,golf ball
+1658,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_15776.JPEG,golf ball
+1659,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_15747.JPEG,golf ball
+1660,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_15688.JPEG,golf ball
+1661,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_15656.JPEG,golf ball
+1662,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_15568.JPEG,golf ball
+1663,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_15485.JPEG,golf ball
+1664,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_1547.JPEG,golf ball
+1665,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_15469.JPEG,golf ball
+1666,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_15388.JPEG,golf ball
+1667,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_15367.JPEG,golf ball
+1668,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_153.JPEG,golf ball
+1669,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_15294.JPEG,golf ball
+1670,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_15276.JPEG,golf ball
+1671,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_1519.JPEG,golf ball
+1672,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_15188.JPEG,golf ball
+1673,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_15187.JPEG,golf ball
+1674,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3278.JPEG,golf ball
+1675,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_15126.JPEG,golf ball
+1676,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_15113.JPEG,golf ball
+1677,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_15064.JPEG,golf ball
+1678,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_15019.JPEG,golf ball
+1679,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_15017.JPEG,golf ball
+1680,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_14914.JPEG,golf ball
+1681,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_14879.JPEG,golf ball
+1682,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_14859.JPEG,golf ball
+1683,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_14849.JPEG,golf ball
+1684,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_14816.JPEG,golf ball
+1685,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_14789.JPEG,golf ball
+1686,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_1475.JPEG,golf ball
+1687,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_14706.JPEG,golf ball
+1688,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_147.JPEG,golf ball
+1689,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_14689.JPEG,golf ball
+1690,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_1468.JPEG,golf ball
+1691,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_14638.JPEG,golf ball
+1692,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_14568.JPEG,golf ball
+1693,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_14533.JPEG,golf ball
+1694,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_14496.JPEG,golf ball
+1695,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_14458.JPEG,golf ball
+1696,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_14457.JPEG,golf ball
+1697,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_14399.JPEG,golf ball
+1698,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_14335.JPEG,golf ball
+1699,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_143.JPEG,golf ball
+1700,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_14278.JPEG,golf ball
+1701,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_14243.JPEG,golf ball
+1702,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_14237.JPEG,golf ball
+1703,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_1419.JPEG,golf ball
+1704,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_14165.JPEG,golf ball
+1705,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_1403.JPEG,golf ball
+1706,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_13924.JPEG,golf ball
+1707,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_13918.JPEG,golf ball
+1708,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_13898.JPEG,golf ball
+1709,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6644.JPEG,golf ball
+1710,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_13874.JPEG,golf ball
+1711,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3704.JPEG,golf ball
+1712,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_1386.JPEG,golf ball
+1713,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_138.JPEG,golf ball
+1714,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_13783.JPEG,golf ball
+1715,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_13759.JPEG,golf ball
+1716,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_13748.JPEG,golf ball
+1717,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_13736.JPEG,golf ball
+1718,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_136.JPEG,golf ball
+1719,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_13579.JPEG,golf ball
+1720,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_13576.JPEG,golf ball
+1721,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_13575.JPEG,golf ball
+1722,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_13567.JPEG,golf ball
+1723,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_13538.JPEG,golf ball
+1724,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_13457.JPEG,golf ball
+1725,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_13455.JPEG,golf ball
+1726,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_1344.JPEG,golf ball
+1727,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_13414.JPEG,golf ball
+1728,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_1338.JPEG,golf ball
+1729,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_13366.JPEG,golf ball
+1730,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_1334.JPEG,golf ball
+1731,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_13307.JPEG,golf ball
+1732,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_13257.JPEG,golf ball
+1733,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_13186.JPEG,golf ball
+1734,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_13144.JPEG,golf ball
+1735,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_13099.JPEG,golf ball
+1736,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4889.JPEG,golf ball
+1737,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_13067.JPEG,golf ball
+1738,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_1297.JPEG,golf ball
+1739,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_12947.JPEG,golf ball
+1740,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_129.JPEG,golf ball
+1741,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_959.JPEG,golf ball
+1742,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_12796.JPEG,golf ball
+1743,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_12789.JPEG,golf ball
+1744,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_1275.JPEG,golf ball
+1745,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_12744.JPEG,golf ball
+1746,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_1866.JPEG,golf ball
+1747,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_127.JPEG,golf ball
+1748,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_12689.JPEG,golf ball
+1749,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_1256.JPEG,golf ball
+1750,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_12505.JPEG,golf ball
+1751,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_12489.JPEG,golf ball
+1752,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_12463.JPEG,golf ball
+1753,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_12325.JPEG,golf ball
+1754,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_12303.JPEG,golf ball
+1755,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_12197.JPEG,golf ball
+1756,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_1217.JPEG,golf ball
+1757,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_12143.JPEG,golf ball
+1758,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_12117.JPEG,golf ball
+1759,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_12069.JPEG,golf ball
+1760,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_1203.JPEG,golf ball
+1761,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_12013.JPEG,golf ball
+1762,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_11973.JPEG,golf ball
+1763,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_11967.JPEG,golf ball
+1764,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_11789.JPEG,golf ball
+1765,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_1169.JPEG,golf ball
+1766,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_11643.JPEG,golf ball
+1767,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_11635.JPEG,golf ball
+1768,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_1159.JPEG,golf ball
+1769,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_11483.JPEG,golf ball
+1770,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7203.JPEG,golf ball
+1771,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_11389.JPEG,golf ball
+1772,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_11347.JPEG,golf ball
+1773,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_11296.JPEG,golf ball
+1774,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_11236.JPEG,golf ball
+1775,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_11144.JPEG,golf ball
+1776,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_11089.JPEG,golf ball
+1777,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_1107.JPEG,golf ball
+1778,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_844.JPEG,golf ball
+1779,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_10788.JPEG,golf ball
+1780,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_10786.JPEG,golf ball
+1781,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_10759.JPEG,golf ball
+1782,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_10743.JPEG,golf ball
+1783,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_10723.JPEG,golf ball
+1784,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_10719.JPEG,golf ball
+1785,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_10698.JPEG,golf ball
+1786,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_10693.JPEG,golf ball
+1787,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_10689.JPEG,golf ball
+1788,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_10678.JPEG,golf ball
+1789,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_10676.JPEG,golf ball
+1790,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_1067.JPEG,golf ball
+1791,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_10657.JPEG,golf ball
+1792,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_10655.JPEG,golf ball
+1793,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_10633.JPEG,golf ball
+1794,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_10616.JPEG,golf ball
+1795,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_10615.JPEG,golf ball
+1796,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_10587.JPEG,golf ball
+1797,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_10583.JPEG,golf ball
+1798,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_10574.JPEG,golf ball
+1799,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_1057.JPEG,golf ball
+1800,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_10556.JPEG,golf ball
+1801,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_10547.JPEG,golf ball
+1802,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_10537.JPEG,golf ball
+1803,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_10523.JPEG,golf ball
+1804,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_10515.JPEG,golf ball
+1805,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_10514.JPEG,golf ball
+1806,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_10499.JPEG,golf ball
+1807,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_10455.JPEG,golf ball
+1808,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_10445.JPEG,golf ball
+1809,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_13093.JPEG,golf ball
+1810,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_10419.JPEG,golf ball
+1811,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_10413.JPEG,golf ball
+1812,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_10376.JPEG,golf ball
+1813,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_1036.JPEG,golf ball
+1814,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_10304.JPEG,golf ball
+1815,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_10254.JPEG,golf ball
+1816,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_10235.JPEG,golf ball
+1817,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_1086.JPEG,golf ball
+1818,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_10167.JPEG,golf ball
+1819,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_10129.JPEG,golf ball
+1820,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_10127.JPEG,golf ball
+1821,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_10117.JPEG,golf ball
+1822,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_10106.JPEG,golf ball
+1823,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_10084.JPEG,golf ball
+1824,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_10039.JPEG,golf ball
+1825,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_17477.JPEG,golf ball
+1826,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_10027.JPEG,golf ball
+1827,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_10008.JPEG,golf ball
+1828,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/ILSVRC2012_val_00048517.JPEG,golf ball
+1829,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/ILSVRC2012_val_00046468.JPEG,golf ball
+1830,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/ILSVRC2012_val_00044936.JPEG,golf ball
+1831,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/ILSVRC2012_val_00044695.JPEG,golf ball
+1832,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/ILSVRC2012_val_00043745.JPEG,golf ball
+1833,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/ILSVRC2012_val_00040694.JPEG,golf ball
+1834,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/ILSVRC2012_val_00038768.JPEG,golf ball
+1835,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/ILSVRC2012_val_00038447.JPEG,golf ball
+1836,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/ILSVRC2012_val_00038005.JPEG,golf ball
+1837,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/ILSVRC2012_val_00037369.JPEG,golf ball
+1838,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/ILSVRC2012_val_00036755.JPEG,golf ball
+1839,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/ILSVRC2012_val_00036187.JPEG,golf ball
+1840,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/ILSVRC2012_val_00035918.JPEG,golf ball
+1841,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/ILSVRC2012_val_00035519.JPEG,golf ball
+1842,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/ILSVRC2012_val_00035419.JPEG,golf ball
+1843,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/ILSVRC2012_val_00031954.JPEG,golf ball
+1844,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/ILSVRC2012_val_00031897.JPEG,golf ball
+1845,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/ILSVRC2012_val_00031744.JPEG,golf ball
+1846,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/ILSVRC2012_val_00031486.JPEG,golf ball
+1847,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/ILSVRC2012_val_00030938.JPEG,golf ball
+1848,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/ILSVRC2012_val_00026194.JPEG,golf ball
+1849,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/ILSVRC2012_val_00024405.JPEG,golf ball
+1850,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/ILSVRC2012_val_00023845.JPEG,golf ball
+1851,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/ILSVRC2012_val_00023215.JPEG,golf ball
+1852,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/ILSVRC2012_val_00019268.JPEG,golf ball
+1853,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/ILSVRC2012_val_00017247.JPEG,golf ball
+1854,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/ILSVRC2012_val_00016748.JPEG,golf ball
+1855,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/ILSVRC2012_val_00013633.JPEG,golf ball
+1856,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/ILSVRC2012_val_00012634.JPEG,golf ball
+1857,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/ILSVRC2012_val_00012356.JPEG,golf ball
+1858,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/ILSVRC2012_val_00011983.JPEG,golf ball
+1859,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/ILSVRC2012_val_00008599.JPEG,golf ball
+1860,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/ILSVRC2012_val_00007947.JPEG,golf ball
+1861,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/ILSVRC2012_val_00007755.JPEG,golf ball
+1862,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/ILSVRC2012_val_00006468.JPEG,golf ball
+1863,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/ILSVRC2012_val_00003793.JPEG,golf ball
+1864,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/ILSVRC2012_val_00002314.JPEG,golf ball
+1865,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_775.JPEG,golf ball
+1866,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_1986.JPEG,golf ball
+1867,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_11409.JPEG,golf ball
+1868,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7059.JPEG,golf ball
+1869,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3915.JPEG,golf ball
+1870,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2509.JPEG,golf ball
+1871,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_485.JPEG,golf ball
+1872,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4509.JPEG,golf ball
+1873,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_1717.JPEG,golf ball
+1874,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5143.JPEG,golf ball
+1875,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_819.JPEG,golf ball
+1876,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_10033.JPEG,golf ball
+1877,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_10425.JPEG,golf ball
+1878,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2709.JPEG,golf ball
+1879,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5703.JPEG,golf ball
+1880,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7797.JPEG,golf ball
+1881,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3463.JPEG,golf ball
+1882,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_9047.JPEG,golf ball
+1883,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3456.JPEG,golf ball
+1884,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6315.JPEG,golf ball
+1885,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7965.JPEG,golf ball
+1886,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4087.JPEG,golf ball
+1887,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5398.JPEG,golf ball
+1888,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_189.JPEG,golf ball
+1889,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_13867.JPEG,golf ball
+1890,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4176.JPEG,golf ball
+1891,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_1289.JPEG,golf ball
+1892,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_5566.JPEG,golf ball
+1893,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_10216.JPEG,golf ball
+1894,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_12724.JPEG,golf ball
+1895,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_8215.JPEG,golf ball
+1896,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7064.JPEG,golf ball
+1897,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_9413.JPEG,golf ball
+1898,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_4246.JPEG,golf ball
+1899,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_9793.JPEG,golf ball
+1900,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_398.JPEG,golf ball
+1901,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3934.JPEG,golf ball
+1902,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3817.JPEG,golf ball
+1903,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6859.JPEG,golf ball
+1904,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_7324.JPEG,golf ball
+1905,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_15176.JPEG,golf ball
+1906,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_9259.JPEG,golf ball
+1907,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_2405.JPEG,golf ball
+1908,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_6265.JPEG,golf ball
+1909,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_3.JPEG,golf ball
+1910,/home/taehun/dvc_test/data-version-control/data/raw/train/n03445777/n03445777_1389.JPEG,golf ball
